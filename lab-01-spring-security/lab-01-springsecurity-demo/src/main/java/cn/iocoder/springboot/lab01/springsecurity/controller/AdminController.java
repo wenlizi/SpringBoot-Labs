@@ -10,7 +10,7 @@ public class AdminController {
 
     @GetMapping("/demo")
     public String demo() {
-        return "示例返回";
+        return "示例返回  ";
     }
 
 }
